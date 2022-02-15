@@ -191,7 +191,7 @@ footer ul {
 ul > li {
 	padding: 10% 0;
 }
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 786px) {
 	html {
 		overflow-x: hidden;
 	}
